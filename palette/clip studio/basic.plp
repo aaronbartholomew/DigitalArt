@@ -1,0 +1,124 @@
+{
+    "app_version": "2.0.77",
+    "hidAppName": "CLIP STUDIO PAINT",
+    "hidAppType": "clipstudiopaint.exe",
+    "hidMode": "specific",
+    "hide_unassigned": false,
+    "layout": {
+        "c": [
+            null,
+            {
+                "c": [
+                    {
+                        "c": [
+                            null,
+                            null,
+                            null
+                        ],
+                        "i": 3,
+                        "t": 1,
+                        "u": "  8$>"
+                    },
+                    {
+                        "c": [
+                            null,
+                            null,
+                            null
+                        ],
+                        "i": 4,
+                        "t": 2,
+                        "u": "  9dT"
+                    },
+                    {
+                        "c": [
+                            null,
+                            null,
+                            null,
+                            null,
+                            null
+                        ],
+                        "i": 5,
+                        "t": 3,
+                        "u": "  7hM"
+                    }
+                ],
+                "i": 2,
+                "t": 1,
+                "u": "  9z&"
+            },
+            null
+        ],
+        "i": 1,
+        "t": 0,
+        "u": "00000"
+    },
+    "midiChannel": -1,
+    "module_mappings": {
+        "colorMap": {
+        },
+        "keyDefault": {
+            "  8$>": "Ctrl+Z"
+        },
+        "keyMap": {
+            "  8$>": {
+                "Ctrl+Z": {
+                    "0": {
+                        "code": 90,
+                        "label": "Z",
+                        "modifier_codes": [
+                            16777249
+                        ]
+                    }
+                }
+            },
+            "  9dT": {
+                "0": {
+                    "code": 66,
+                    "dial_sensitivity": 6,
+                    "label": "B",
+                    "modifier_codes": [
+                    ]
+                },
+                "1": {
+                    "code": 91,
+                    "dial_sensitivity": 6,
+                    "label": "[",
+                    "modifier_codes": [
+                    ]
+                },
+                "2": {
+                    "code": 93,
+                    "dial_sensitivity": 6,
+                    "label": "]",
+                    "modifier_codes": [
+                    ]
+                }
+            }
+        },
+        "mediaMap": {
+            "  7hM": "VOLUME"
+        },
+        "shortcutsMap": {
+            "  8$>": "",
+            "  9z&": ""
+        }
+    },
+    "old_priorities": {
+        "old_buttons": [
+        ],
+        "old_dials": [
+        ],
+        "old_sliders": [
+        ]
+    },
+    "os": "windows",
+    "priorities": [
+        "  7hM",
+        "  9dT",
+        "  8$>"
+    ],
+    "tabType": "Keyboard",
+    "tabUuid": "{5bf4963b-5c4b-499d-9ea3-9550401941a0}",
+    "title": "Clip Studio"
+}
+

@@ -1,0 +1,115 @@
+{
+    "app_version": "2.0.77",
+    "hide_unassigned": false,
+    "layout": {
+        "c": [
+            null,
+            {
+                "c": [
+                    {
+                        "c": [
+                            null,
+                            null,
+                            null
+                        ],
+                        "i": 4,
+                        "t": 1,
+                        "u": "  8$>"
+                    },
+                    {
+                        "c": [
+                            null,
+                            null,
+                            null
+                        ],
+                        "i": 3,
+                        "t": 2,
+                        "u": "  9dT"
+                    },
+                    {
+                        "c": [
+                            null,
+                            null,
+                            null,
+                            null,
+                            null
+                        ],
+                        "i": 5,
+                        "t": 3,
+                        "u": "  7hM"
+                    }
+                ],
+                "i": 2,
+                "t": 1,
+                "u": "  9z&"
+            },
+            null
+        ],
+        "i": 1,
+        "t": 0,
+        "u": "00000"
+    },
+    "midiChannel": -1,
+    "module_mappings": {
+        "appFunctionMap": {
+            "  7hM": {
+                "function_key": "Foreground Color.HSB.Brightness"
+            },
+            "  8$>": {
+                "function_key": "Select Tool.Eraser.Eraser Tool"
+            },
+            "  9dT": {
+                "function_key": "Basic Brush.Size"
+            },
+            "  9z&": {
+                "function_key": "Select Tool.Brush.Brush Tool"
+            }
+        },
+        "colorMap": {
+            "  7hM": "#ffffff",
+            "00000": "#ffffff"
+        },
+        "keyDefault": {
+            "  9dT": "Brush Size",
+            "  9z&": "Brush Tool"
+        },
+        "keyMap": {
+            "  9dT": {
+                "Brush Size": {
+                }
+            },
+            "  9z&": {
+                "Brush Tool": {
+                }
+            },
+            "00000": {
+            }
+        },
+        "mediaMap": {
+        },
+        "shortcutsMap": {
+            "  8$>": "",
+            "  9z&": "",
+            "00000": ""
+        }
+    },
+    "old_priorities": {
+        "old_buttons": [
+        ],
+        "old_dials": [
+        ],
+        "old_sliders": [
+        ]
+    },
+    "os": "windows",
+    "priorities": [
+        "  7hM",
+        "  9z&",
+        "  9dT",
+        "  8$>"
+    ],
+    "tabType": "Photoshop",
+    "tabUuid": "{c99f7573-b8b2-4d70-8a15-2717fa6b3ec1}",
+    "title": "Paint - Basic"
+}
+

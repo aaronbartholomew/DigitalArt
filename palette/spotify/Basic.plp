@@ -1,0 +1,196 @@
+{
+    "app_version": "2.0.77",
+    "hidAppName": "Spotify",
+    "hidAppType": "spotify.exe",
+    "hidMode": "specific",
+    "hide_unassigned": false,
+    "layout": {
+        "c": [
+            null,
+            {
+                "c": [
+                    {
+                        "c": [
+                            null,
+                            null,
+                            null
+                        ],
+                        "i": 4,
+                        "t": 1,
+                        "u": "  8$>"
+                    },
+                    {
+                        "c": [
+                            null,
+                            null,
+                            null
+                        ],
+                        "i": 3,
+                        "t": 2,
+                        "u": "  9dT"
+                    },
+                    {
+                        "c": [
+                            null,
+                            null,
+                            null,
+                            null,
+                            null
+                        ],
+                        "i": 5,
+                        "t": 3,
+                        "u": "  7hM"
+                    }
+                ],
+                "i": 2,
+                "t": 1,
+                "u": "  9z&"
+            },
+            null
+        ],
+        "i": 1,
+        "t": 0,
+        "u": "00000"
+    },
+    "midiChannel": -1,
+    "module_mappings": {
+        "colorMap": {
+            "  6OE": "#00ff00",
+            "  6`=": "#00ff00",
+            "  7hM": "#00ff00",
+            "  8$>": "#00ff00",
+            "  8fs": "#00ff00",
+            "  9dT": "#00ff00",
+            "  9z&": "#00ff00",
+            "00000": "#00ff00"
+        },
+        "keyDefault": {
+            "  7hM": "Volume",
+            "  8$>": "Ctrl+Right"
+        },
+        "keyMap": {
+            "  6OE": {
+                "1": {
+                    "code": 16777237,
+                    "dial_sensitivity": 6,
+                    "label": "Down",
+                    "modifier_codes": [
+                        16777249
+                    ]
+                },
+                "2": {
+                    "code": 16777235,
+                    "dial_sensitivity": 6,
+                    "label": "Up",
+                    "modifier_codes": [
+                        16777249
+                    ]
+                }
+            },
+            "  6`=": {
+                "0": {
+                    "code": 32,
+                    "dial_sensitivity": 4,
+                    "label": "Space",
+                    "modifier_codes": [
+                    ]
+                },
+                "1": {
+                    "code": 16777234,
+                    "dial_sensitivity": 4,
+                    "label": "Left",
+                    "modifier_codes": [
+                        16777249
+                    ]
+                },
+                "2": {
+                    "code": 16777236,
+                    "dial_sensitivity": 4,
+                    "label": "Right",
+                    "modifier_codes": [
+                        16777249
+                    ]
+                }
+            },
+            "  7hM": {
+                "Volume": {
+                }
+            },
+            "  8$>": {
+                "Next": {
+                    "0": {
+                        "code": 16777236,
+                        "label": "Right",
+                        "modifier_codes": [
+                            16777249
+                        ]
+                    }
+                }
+            },
+            "  8fs": {
+            },
+            "  9dT": {
+                "0": {
+                    "code": 16777220,
+                    "dial_sensitivity": 6,
+                    "label": "Return",
+                    "modifier_codes": [
+                    ]
+                },
+                "1": {
+                    "code": 16777235,
+                    "dial_sensitivity": 6,
+                    "label": "Up",
+                    "modifier_codes": [
+                    ]
+                },
+                "2": {
+                    "code": 16777237,
+                    "dial_sensitivity": 6,
+                    "label": "Down",
+                    "modifier_codes": [
+                    ]
+                }
+            },
+            "00000": {
+            }
+        },
+        "mediaMap": {
+            "  7hM": "VOLUME",
+            "  8fs": "VOLUME",
+            "  9z&": "PLAY_PAUSE"
+        },
+        "shortcutsMap": {
+            "  6OE": "Spotify Volume",
+            "  6`=": "Song Control",
+            "  7hM": "",
+            "  8$>": "Next",
+            "  8fs": "System Volume",
+            "  9dT": "Select Track From List",
+            "00000": ""
+        }
+    },
+    "old_priorities": {
+        "old_buttons": [
+        ],
+        "old_dials": [
+            "  6OE",
+            "  6`="
+        ],
+        "old_sliders": [
+            "  8fs"
+        ]
+    },
+    "os": "windows",
+    "priorities": [
+        "  9z&",
+        "  7hM",
+        "  8$>",
+        "  9dT",
+        "00000"
+    ],
+    "tabType": "Keyboard",
+    "tabUuid": "{53dc9fe4-0c68-4b6b-9f86-df1ba0e3f3fb}",
+    "title": "Spotify"
+}
+
